@@ -1,4 +1,6 @@
-## Your Name
+## Lan Pham
+
+[Skills](#skills) | [Projects](#projects) | [Education](#education) | [Experience](#experience) | [Languages](#languages) | [Interests](#interests)
 
 A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.
 
@@ -20,6 +22,8 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - I contributed to the growth of X while doing Y (job, or otherwise)
 - I built this, made this, broke this, fixed this, etc.
 - A link to some on-line evidence (blogs, videos, articles, etc.)
+
+## Projects
 
 ## Education
 
@@ -48,3 +52,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 *Your job title*  
 **Company Name** (start_date to end_date)   
 *Your job title*  
+
+## Languages
+
+## Interests
