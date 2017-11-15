@@ -2,57 +2,79 @@
 
 [Skills](#skills) | [Projects](#projects) | [Education](#education) | [Experience](#experience) | [Languages](#languages) | [Interests](#interests)
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.
+Since I was little I have always been curious to know how things worked, how they were made and if I could make them into something new. I was captivated by Legos and how I could build something, break it and rebuild it into something better while other girls my age were playing with dolls. Growing up, I’ve become more and more of a geek for gadgets and gizmos as Technology fascinated me so much more than regular kid's toys.
+
+Accelerate to 2017 and, after five years of working in Merchandising, I realised that it is not the world of Fashion that gets me excited, but software development and the challenge of building new things by coding. All of my free time was spent online watching tutorials to learn the basics of coding, and as my confidence grew and I quickly got introduced to the the live tech community attending various meet-ups and in particular [Codebar]( https://codebar.io/).
+
+After a few months of weekly Codebar sessions, I quit my job. I made that life-changing decision to go for what I really want and that's to be a successful Software Developer.  So I have joined Makers Academy on a 12-week highly intensive and selective Web Developer Bootcamp to take me from novice to software developer.
 
 ## Skills
 
-#### This Skill
+#### Communication
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
+Throughout my career, I have developed my communication skill by liaising with various suppliers on a daily basis and attending regular buying appointments. Communication has been a key factor to the department's success as it created a better working relationship not only with the brands but also with my internal teams.
 
-- Experience
-- Achievements
-- Evidence
+#### Adaptability
 
-#### Another Skill
-
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
-
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
+During my career at ASOS, I have had the chance to work with several different teams. One of the most important skills I have learnt is adaptability and flexibility. Moving from a team to a new one is generally quite daunting, however it is the best experience I've had. Getting out of my routine, working with different people and learning people's way of working while bringing my own is the best way to progress.
 
 ## Projects
 
+Project | Description | Technologies | Testing
+------- | ----------- | ------------ | -------
+[Student Directory](https://github.com/Albion31/student-directory) | A Ruby application script that allows you to manage students enrolled at Villains Academy | Ruby, Command Line, Version Control | N/A
+[Fizzbuzz](https://github.com/Albion31/fizzbuzz) | First pair programming and TDD over Fizzbuzz Kata | Ruby, Command Line, Version Control | Rspec
+
+For a complete list, see my [GitHub profile](https://github.com/Albion31).
+
 ## Education
 
-#### Makers Academy (start_date to end_date)
+#### Makers Academy (November 2017 to February 2017)
 
-- Curious and passionate about code. [PROVIDE EVIDENCE]
-- Fast, independent learner [PROVIDE EVIDENCE]
-- Great collaborator [PROVIDE EVIDENCE]
-
-- OOP, TDD, MVC, DDD
-- Agile/XP
+- Curious and passionate about code. Regular meet-ups, talks and Codebar attendee
+- Fast and independent learner through online materials
+- Great collaborator with weekly group projects
+- Test Driven Development and Object-Oriented Programming
+- Emphasis on pair-programming
+- MVC, DDD
+- Agile/XP values
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 
-#### Your University / College (start_date to end_date)
+#### London South Bank University (September 2006 to March 2008)
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+- MSc. in International Business
+- Master’s Dissertation (June 2007 - March 2008)
 
-#### Any other qualifications
+#### The American Business School, Paris (September 2003 to June 2005)
+
+- Bachelor of Business Administration
+- GPA: 3.31 – Major in Marketing
+- Exchange Program: (2005)
+  - San Diego State University, California
+  - Fudan University, Shanghai
+  - Diplomatic Academy of Vietnam, Hanoi
 
 ## Experience
 
-**Company Name** (start_date to end_date)    
-*Your job title*  
-**Company Name** (start_date to end_date)   
-*Your job title*  
+**ASOS** (October 2012 to July 2017)    
+**_Senior Merchandising Assistant_**
+
+- Managing entry MA ensuring their development needs are met.
+- Writing weekly trade reports and presenting to Management in trade meetings.
+- Liaising with suppliers and brands on a daily basis to manage intake.
+- Running promotional and markdown rolls by analysing sales, stock and cover.
+- Monitoring and forecasting sales, making trade recommendations and actions.
+- Forecasting weekly WSSI’s and ensure the sales plans are hit.
+- Producing sales, returns, colour and sizing analysis for strategy meetings,
+looking at history and lessons learnt to set next season’s buy and sales plan.
 
 ## Languages
 
+**English** - Fluent  
+**French** - Native  
+**Vietnamese** - Native
+
 ## Interests
+
+Cooking, Piano and Guitar, Ballroom Dancing, Travelling the world, Hiking, Theatre and Concerts.
