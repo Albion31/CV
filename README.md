@@ -1,12 +1,12 @@
 ## Lan Pham
 
-[Skills](#skills) | [Projects](#projects) | [Education](#education) | [Experience](#experience) | [Languages](#languages) | [Interests](#interests)
+[Skills](#skills) | [Projects](#projects) | [Education](#education) | [Experience](#experience) | [Languages](#languages) | [Interests](#interests) | [LinkedIn](https://www.linkedin.com/in/lan-pham-97b30240/)
 
 Since I was little I have always been curious to know how things worked, how they were made and if I could make them into something new. I was captivated by Legos and how I could build something, break it and rebuild it into something better while other girls my age were playing with dolls. Growing up, I’ve become more and more of a geek for gadgets and gizmos as Technology fascinated me so much more than regular kid's toys.
 
 Accelerate to 2017 and, after five years of working in Merchandising, I realised that it is not the world of Fashion that gets me excited, but software development and the challenge of building new things by coding. All of my free time was spent online watching tutorials to learn the basics of coding, and as my confidence grew and I quickly got introduced to the the live tech community attending various meet-ups and in particular [Codebar]( https://codebar.io/).
 
-After a few months of weekly Codebar sessions, I quit my job. I made that life-changing decision to go for what I really want and that's to be a successful Software Developer.  So I have joined Makers Academy on a 12-week highly intensive and selective Web Developer Bootcamp to take me from novice to software developer.
+After a few months of weekly Codebar sessions, I quit my job. I made that life-changing decision to go for what I really want and that's to be a successful Software Developer.  So I have joined [Makers Academy](http://www.makersacademy.com/) on a 16-week highly intensive and selective Web Developer Bootcamp to take me from novice to software developer.
 
 ## Skills
 
@@ -22,8 +22,8 @@ During my career at ASOS, I have had the chance to work with several different t
 
 Project | Description | Technologies | Testing
 ------- | ----------- | ------------ | -------
-[Student Directory](https://github.com/Albion31/student-directory) | A Ruby application script that allows you to manage students enrolled at Villains Academy | Ruby, Command Line, Version Control | N/A
-[Fizzbuzz](https://github.com/Albion31/fizzbuzz) | First pair programming and TDD over Fizzbuzz Kata | Ruby, Command Line, Version Control | Rspec
+[Instagram](https://github.com/Albion31/instagram-challenge) | An Instagram clone where users can create an account, sign in and out, post pictures with caption, add/edit/delete comments and like a picture  | Backend: Ruby. Framework: Rails. Database: PostgreSQL. Frontend: Bootstrap, HTML, CSS | RSpec, Capybara, Selenium
+[Bowling Challenge](https://github.com/Albion31/bowling-challenge) | An interactive bowling scoresheet calculator | Frontend: JavaScript, JQuery, HTML, CSS | Jasmine
 
 For a complete list, see my [GitHub profile](https://github.com/Albion31).
 
@@ -38,8 +38,8 @@ For a complete list, see my [GitHub profile](https://github.com/Albion31).
 - Emphasis on pair-programming
 - MVC, DDD
 - Agile/XP values
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
+- Ruby, Rails, Sinatra, JavaScript
+- RSpec, Jasmine, Capybara
 
 #### London South Bank University (September 2006 to March 2008)
 
