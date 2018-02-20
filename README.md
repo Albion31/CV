@@ -12,11 +12,21 @@ After a few months of weekly Codebar sessions, I quit my job. I made that life
 
 #### Communication
 
-Throughout my career, I have developed my communication skill by liaising with various suppliers on a daily basis and attending regular buying appointments. Communication has been a key factor to the department's success as it created a better working relationship not only with the brands but also with my internal teams.
+My communication skills were highly praised by my team members, always giving clear and rational thoughts or suggestions to problems, whilst ensuring the rest of my team can express themselves as well and don’t feel left out. Communication is important with your team, but so is having a good relationship with people outside the business. My previous roles have enabled me to develop those skills by maintaining high professionally and amicable relationships with external suppliers.
+
 
 #### Adaptability
 
 During my career at ASOS, I have had the chance to work with several different teams. One of the most important skills I have learnt is adaptability and flexibility. Moving from a team to a new one is generally quite daunting, however it is the best experience I've had. Getting out of my routine, working with different people and learning people's way of working while bringing my own is the best way to progress.
+
+#### Persistence
+
+My persistence and courage in what I can achieve is what has got me here today. Whilst I love taking on new challenges head-on, they are always risk calculated and difficulties faced with hard work to overcome them.
+
+#### Fast learning
+
+My ability to absorb and use information efficiently is a capability that I am proud of having. During my final project at Makers Academy, my team and I worked on building a web application using 12 new technologies, most of which I had to learn from scratch and we succeeded in creating a great product within the two-week timeframe.
+
 
 ## Projects
 
