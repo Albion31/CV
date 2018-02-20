@@ -22,8 +22,9 @@ During my career at ASOS, I have had the chance to work with several different t
 
 Project | Description | Technologies | Testing
 ------- | ----------- | ------------ | -------
-[Instagram](https://github.com/Albion31/instagram-challenge) | An Instagram clone where users can create an account, sign in and out, post pictures with caption, add/edit/delete comments and like a picture  | Backend: Ruby. Framework: Rails. Database: PostgreSQL. Frontend: Bootstrap, HTML, CSS | RSpec, Capybara, Selenium
-[Bowling Challenge](https://github.com/Albion31/bowling-challenge) | An interactive bowling scoresheet calculator | Frontend: JavaScript, JQuery, HTML, CSS | Jasmine
+[posterpop](https://github.com/Albion31/posterpop) | Final group project at Makers Academy. A Progressive Web App for mobile devices that uses text recognition to allow the user to photograph the poster of an event and saves the link for the event's website. That link is then stored in the user's profile and is shown on the app page. The user can then click on it to get redirected to the event's website at a later time. Read our collective blog to document the process [here](https://medium.com/@team_processive/)  | __*Back-end:*__ Google Cloud Vision API, Google Cloud Firebase, Node Modules. __*Front-end:*__ JavaScript ES6, Vue 2, Bootstrap-Vue. | Mocha, Karma, Nightwatch, Selenium Web Driver, EsLint AirBnB Lighthouse.
+[Instagram](https://github.com/Albion31/instagram-challenge) | An Instagram clone where users can create an account, sign in and out, post pictures with caption, add/edit/delete comments and like a picture  | __*Back-end:*__ Ruby. Framework: Rails. Database: PostgreSQL. __*Front-end:*__ Bootstrap, HTML, CSS | RSpec, Capybara, Selenium.
+[Bowling Challenge](https://github.com/Albion31/bowling-challenge) | An interactive bowling scoresheet calculator | __*Front-end:*__ JavaScript, JQuery, HTML, CSS | Jasmine.
 
 For a complete list, see my [GitHub profile](https://github.com/Albion31).
 
@@ -39,6 +40,7 @@ For a complete list, see my [GitHub profile](https://github.com/Albion31).
 - MVC, DDD
 - Agile/XP values
 - Ruby, Rails, Sinatra, JavaScript
+- HTML 5, CSS
 - RSpec, Jasmine, Capybara
 
 #### London South Bank University (September 2006 to March 2008)
