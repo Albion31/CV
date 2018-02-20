@@ -6,7 +6,7 @@ Since I was little I have always been curious to know how things worked, how the
 
 Accelerate to 2017 and, after five years of working in Merchandising, I realised that it is not the world of Fashion that gets me excited, but software development and the challenge of building new things by coding. All of my free time was spent online watching tutorials to learn the basics of coding, and as my confidence grew and I quickly got introduced to the the live tech community attending various meet-ups and in particular [Codebar]( https://codebar.io/).
 
-After a few months of weekly Codebar sessions, I quit my job. I made that life-changing decision to go for what I really want and that's to be a successful Software Developer.  So I have joined [Makers Academy](http://www.makersacademy.com/) on a 16-week highly intensive and selective Web Developer Bootcamp to take me from novice to software developer.
+After a few months of weekly Codebar sessions, I quit my job. I made that life-changing decision to go for what I really want and that's to be a successful Software Developer.  I have now recently graduated from [Makers Academy](http://www.makersacademy.com/), a 16-week highly intensive and selective Web Developer Bootcamp that took me from novice to software developer.
 
 ## Skills
 
@@ -45,13 +45,12 @@ For a complete list, see my [GitHub profile](https://github.com/Albion31).
 - Curious and passionate about code. Regular meet-ups, talks and Codebar attendee
 - Fast and independent learner through online materials
 - Great collaborator with weekly group projects
-- Test Driven Development and Object-Oriented Programming
-- Emphasis on pair-programming
-- MVC, DDD
-- Agile/XP values
-- Ruby, Rails, Sinatra, JavaScript
-- HTML 5, CSS
-- RSpec, Jasmine, Capybara
+- Object-Oriented Programming aficionado
+- Strong Emphasis on XP values such as Simplicity, Communication and Respect
+- Processes obsessive such as TDD, Pair/Mob Programming, Stand-ups and Retros
+- Languages: Ruby, JavaScript, HTML 5, CSS
+- Frameworks: Rails, Sinatra, Vue 2
+- Testing Frameworks: RSpec, Jasmine, Capybara, Nightwatch
 
 #### London South Bank University (September 2006 to March 2008)
 
@@ -78,8 +77,6 @@ For a complete list, see my [GitHub profile](https://github.com/Albion31).
 - Running promotional and markdown rolls by analysing sales, stock and cover.
 - Monitoring and forecasting sales, making trade recommendations and actions.
 - Forecasting weekly WSSI’s and ensure the sales plans are hit.
-- Producing sales, returns, colour and sizing analysis for strategy meetings,
-looking at history and lessons learnt to set next season’s buy and sales plan.
 
 ## Languages
 
